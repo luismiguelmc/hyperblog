@@ -11,7 +11,7 @@ body{
 #cabecera{
     background: #37488b;
     box-shadow:0 2px 20px 0px rgba(0,0,0,0.5);
-    color:white;
+    color: #fff;
     font-weight: bold;
     margin:0;
     padding:0.5em 0 0.5em 2em;
@@ -42,5 +42,6 @@ margin: 0 auto;
 }
 
 #post{
+    background: #fff;
     padding:1em;
 }
